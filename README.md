@@ -2,14 +2,14 @@
 A real-time chat application built using HTML, CSS, JavaScript, PHP, and MySQL.
 # Features
 - User authentication (Sign up & Login)
-- ![image](./Image/Register1.png)
-- ![image](./Image/Login.png)
+![image](./Image/Register1.png)
+![image](./Image/Login.png)
 - Real-time messaging
-- ![image](./Image/Screenshot%202025-01-31%20114523.png)
+![image](./Image/Screenshot%202025-01-31%20114523.png)
 - Online user status
-- ![image](./Image/user.png)
+ ![image](./Image/user.png)
 - Responsive design
-- ![image](./Image/mobileView.png)
+ ![image](./Image/mobileView.png)
 - Secure database storage
 - AJAX-based messaging (without page reload)
 # Technologies Used
